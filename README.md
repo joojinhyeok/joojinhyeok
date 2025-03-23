@@ -37,6 +37,9 @@
 
 ---
 
+<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-
+  <a href="mailto:jjh68979@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
