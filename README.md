@@ -1,8 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Welcome!&desc=JinHyeok%20GitHub&descSize=25&fontAlignY=35&fontSize=80&strokeWidth=0)
-
-
----
-
 ## 🦾 Skills
 
 <div align="center">
